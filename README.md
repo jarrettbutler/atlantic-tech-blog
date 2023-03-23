@@ -23,7 +23,7 @@ https://github.com/jarrettbutler/atlantic-tech-blog
 
 or visit the deployed site at:
 
-https://whispering-garden-60242.herokuapp.com/
+https://atlantictechblog.herokuapp.com/
 
 ## Usage
 You can see others blog posts as well as comment on them. When signed in you can comment, add update and delete posts.
